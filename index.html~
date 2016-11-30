@@ -32,7 +32,8 @@
 	 Intelligent Techniques Laboratory (LTI)<br>
 	 University of São Paulo<br>
        Computer Engineering Department <br>
-	 São Paulo, Brazil.<br>
+	 São Paulo, Brazil.<br><br>
+        <font size=2>Last Update on: November 30th, 2016.</font><br>
 <div id="curriculumContainer" style="width: 100%">
   
   <div style="width: 100%; float: center;">
@@ -103,7 +104,7 @@
 <br><br>
 <div   align="justify"> I received the B.S. degree in Computer Science from Pontifical Catholic University of São Paulo in 2012, and the M.S. degree in Electrical Engineering from University of São Paulo in 2015. <br><br>
 
-Now, I'm pursuing a PhD in Electrical Engineering at the University of São Paulo. I've been working full-time as an academic researcher for some years, including some experiences as teaching assistant to undergrad subjects, journal reviewer, and undergrad research project co-advisor. Currently, I am helping to organize the <a href=https://www.tirl.info><i>1st Workshop on Transfer in Reinforcement Learning</i></a>.
+Now, I'm pursuing a PhD in Electrical Engineering at the University of São Paulo. I've been working full-time as an academic researcher for some years, including some experiences as teaching assistant to undergrad subjects, journal reviewer, and undergrad research project co-advisor. Currently, I am helping to organize the <a href=http://www.tirl.info><i>1st Workshop on Transfer in Reinforcement Learning</i></a>.
 
 
 
@@ -199,12 +200,6 @@ Computers and Electronics in Agriculture, v. 114, p. 68-77, 2015.
 Wing Images and tps file used in "A reference process for automating...". <a href="downloads/WingImagesAReference.zip">here</a>
 
 
-<div style="position: relative;background-color: blue; width: 600px; height: 800px;">    
-
-    <div style="position: absolute; bottom: 5px; background-color: green">
-    Last Update on: November 30th, 2016.
-    </div>
-</div>
 </body>
 </html>
 
