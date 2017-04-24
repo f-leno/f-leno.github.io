@@ -6,6 +6,17 @@
 </style>
 
 <html>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-98019348-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <head>
 
 <title>Leno's Webpage</title>
@@ -61,7 +72,7 @@
   </tr>
 </table>
 <br>
-        <font size=2>Last Update on: February 22nd, 2017.</font><br>
+        <font size=2>Last Update on: April 24th, 2017.</font><br>
 
 <hr>
 <br>
@@ -156,15 +167,9 @@ I'm not working on this project as a first author anymore, but I've been advisin
 <i>Simultaneously Learning and Advising in Multiagent Reinforcement Learning</i>.
 International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Accepted, 2017.
 <br><br>
-
 <b>SILVA, F.L.</b>;COSTA, A.H.R. 
 <i><a href="http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14217">Accelerating Multiagent Reinforcement Learning through Transfer Learning (Doctoral Consortium)</i>.</a>
 AAAI Conference on Artificial Intelligence, p. 5034-5035, 2017.
-<br><br>
-
-<b>SILVA, F.L.</b>; GLATT, R.; COSTA, A.H.R. 
-<i><a href="http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14413">An Advising Framework for Multiagent Reinforcement Learning Systems (Student Paper)</i>.</a>
-AAAI Conference on Artificial Intelligence, p. 1413-1414, 2017.
 <br><br>
 <b>SILVA, F.L.</b>; GLATT, R.; COSTA, A.H.R. 
 <a href="http://ieeexplore.ieee.org/document/7839556/"><i>Object-Oriented Reinforcement Learning in Cooperative Multiagent Domains</i></a>.
@@ -174,20 +179,23 @@ Brazilian Conference on Intelligent System (BRACIS), p. 19-24, 2016. - <b>Best P
 <i>Transfer Learning for Multiagent Reinforcement Learning Systems (Doctoral Consortium)</i>.</a>
 International Joint Conference on Artiﬁcial Intelligence (IJCAI), p. 3982-3983, 2016.
 <br><br>
-
-
-
 GLATT, R.; <b>SILVA, F.L.</b>;COSTA, A.H.R. <a href="http://ieeexplore.ieee.org/document/7839568/"><i>Towards Knowledge Transfer in Deep Reinforcement Learning.</i></a>
 Brazilian Conference on Intelligent System (BRACIS), p. 91-96, 2016. 
-<br><br>
-SANTANA, F.S.; COSTA, A.H.R.; TRUZZI, F.S.; <b>SILVA, F.L.</b>; SANTOS, S.L.; FRANCOY, T.M.; SARAIVA, A. M. <a href="http://www.sciencedirect.com/science/article/pii/S1574954113001222">
-<i>A reference process for automating bee species identiﬁcation based on wing images and digital image processing.</i></a>
-Ecological Informatics, v. 24, p. 248-260, 2014 
 <br><br>
 <b>SILVA, F.L.</b>; SELLA, M.L.G.; FRANCOY, T.M.; COSTA, A.H.R. <a href="http://www.sciencedirect.com/science/article/pii/S0168169915000873">
 <i>Evaluating classiﬁcation and feature selection techniques for Honey bee subspecies identiﬁcation using wing images.</i></a>
 Computers and Electronics in Agriculture, v. 114, p. 68-77, 2015.
 <br><br>
+JACOMINI, R. S.; MARTINS-JR, D. ; <b>SILVA, F. L.</b>; COSTA, A. H. R.
+<i>GeNICE: A Novel Framework for Gene Networks Inference by Clustering, Exhaustive Search and Multivariate Analysis.</i>
+Journal of Computational Biology, to appear, 2017.
+<br><br>
+SANTANA, F.S.; COSTA, A.H.R.; TRUZZI, F.S.; <b>SILVA, F.L.</b>; SANTOS, S.L.; FRANCOY, T.M.; SARAIVA, A. M. <a href="http://www.sciencedirect.com/science/article/pii/S1574954113001222">
+<i>A reference process for automating bee species identiﬁcation based on wing images and digital image processing.</i></a>
+Ecological Informatics, v. 24, p. 248-260, 2014 
+<br><br>
+
+
 
 
 <br />
@@ -196,7 +204,8 @@ Computers and Electronics in Agriculture, v. 114, p. 68-77, 2015.
 <a name="passions">
 <font size=5><b>Other Passions</b></font><br /><br>
 <p align="justify">• <b>Music</b> - I've been playing electric guitar since I was 15 years old. Even though I'm far from claiming to be in a professional level, you can count on me if you want to have fun playing some old good heavy metal.  <br /><br>
-• <b>Horror Movies</b> - I was just a little boy when I first watched "Night of the living dead". Thereafter I cannot spend a week without watching a B movie (specially the brain-eater zombie ones).<br /></p>
+• <b>Horror Movies</b> - I was just a little boy when I first watched "Night of the living dead". Thereafter I cannot spend a week without watching a B movie (specially the brain-eater zombie ones).<br /> <br>
+• <b>Photography</b> - My Instagram account: <a href="https://www.instagram.com/f.leno/">f.leno</a>
 
 <br />
 <hr>
