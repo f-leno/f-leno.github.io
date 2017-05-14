@@ -72,7 +72,7 @@
   </tr>
 </table>
 <br>
-        <font size=2>Last Update on: April 24th, 2017.</font><br>
+        <font size=2>Last Update on: May 14th, 2017.</font><br>
 
 <hr>
 <br>
@@ -164,8 +164,12 @@ I'm not working on this project as a first author anymore, but I've been advisin
 
 
 <b>SILVA, F.L.</b>; GLATT, R.; COSTA, A.H.R. 
-<i>Simultaneously Learning and Advising in Multiagent Reinforcement Learning</i>.
-International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Accepted, 2017.
+<i><a href="http://www.aamas2017.org/proceedings/pdfs/p1100.pdf">Simultaneously Learning and Advising in Multiagent Reinforcement Learning</a></i>.
+International Conference on Autonomous Agents and Multiagent Systems (AAMAS), p. 1100-1108, 2017.
+<br><br>
+<b>SILVA, F. L.</b>; COSTA, A. H. R.
+<i><a href="http://tirl.info/proceedings/2017/SilvaCosta-Towards.pdf">Towards Zero-Shot Autonomous Inter-Task Mapping through Object-Oriented Task Description</a>.</i>
+1st Workshop on Transfer in Reinforcement Learning (TiRL) at AAMAS-17, 2017.
 <br><br>
 <b>SILVA, F.L.</b>;COSTA, A.H.R. 
 <i><a href="http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14217">Accelerating Multiagent Reinforcement Learning through Transfer Learning (Doctoral Consortium)</i>.</a>
@@ -178,9 +182,6 @@ Brazilian Conference on Intelligent System (BRACIS), p. 19-24, 2016. - <b>Best P
 <b>SILVA, F.L.</b>;COSTA, A.H.R. <a href="http://www.ijcai.org/Proceedings/16/Papers/565.pdf">
 <i>Transfer Learning for Multiagent Reinforcement Learning Systems (Doctoral Consortium)</i>.</a>
 International Joint Conference on Artiﬁcial Intelligence (IJCAI), p. 3982-3983, 2016.
-<br><br>
-GLATT, R.; <b>SILVA, F.L.</b>;COSTA, A.H.R. <a href="http://ieeexplore.ieee.org/document/7839568/"><i>Towards Knowledge Transfer in Deep Reinforcement Learning.</i></a>
-Brazilian Conference on Intelligent System (BRACIS), p. 91-96, 2016. 
 <br><br>
 <b>SILVA, F.L.</b>; SELLA, M.L.G.; FRANCOY, T.M.; COSTA, A.H.R. <a href="http://www.sciencedirect.com/science/article/pii/S0168169915000873">
 <i>Evaluating classiﬁcation and feature selection techniques for Honey bee subspecies identiﬁcation using wing images.</i></a>
