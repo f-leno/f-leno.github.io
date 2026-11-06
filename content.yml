@@ -1,0 +1,339 @@
+# =============================================================================
+#  CONTENT OF https://f-leno.github.io
+#
+#  Edit this file to update the website, then commit and push it.
+#  The page reads this file directly; there is nothing to build or install.
+#  Step-by-step instructions and examples: README.md
+#
+#  Quick rules
+#   - Keep the indentation exactly like the examples (spaces, never tabs).
+#   - Put text inside "double quotes". If the text itself contains double
+#     quotes, wrap it in 'single quotes' instead.
+#   - Inside text you can write **bold**, *italic*, and [link text](https://...).
+#   - Lines starting with # are notes for you; they never appear on the site.
+# =============================================================================
+
+
+# -----------------------------------------------------------------------------
+#  TOP OF THE PAGE
+# -----------------------------------------------------------------------------
+name: "Felipe Leno da Silva (Leno)"
+position: "Principal Applied Scientist"
+organization: "Microsoft Dataverse"
+location: "Greater Seattle Area, USA"
+email: "lenodasilva [at] microsoft.com"   # keep the [at]: it hides the address from spam bots
+last_update: "November 6th, 2026."        # shown as "Last Update in: ..."
+
+photo: "img/lenoProfile.png"
+photo_description: "Leno"
+photo_link: "http://www.pcs.usp.br/~lti/joomla/images/stories/servletrecuperafoto.png"
+
+profiles:
+  - name: "Research Gate Profile"
+    icon: "img/researchGate.png"
+    link: "https://www.researchgate.net/profile/Felipe_Silva34"
+
+  - name: "Google Scholar Profile"
+    icon: "img/googleScholar.png"
+    link: "https://scholar.google.com.br/citations?user=XbyIZQ4AAAAJ"
+
+  - name: "Lattes Profile"
+    icon: "img/lattes.png"
+    link: "http://lattes.cnpq.br/7495810060217408"
+
+  - name: "Linkedin Profile"
+    icon: "img/linkedin.png"
+    link: "http://www.linkedin.com/in/f-leno"
+
+
+# -----------------------------------------------------------------------------
+#  SUMMARY
+#  Keep the two-space indentation. Separate paragraphs with an empty line;
+#  single line breaks inside a paragraph are ignored.
+# -----------------------------------------------------------------------------
+summary: |
+  I am currently a Principal Applied Scientist at Microsoft Corporation working on the
+  Business and Industry Copilot org. Before that I spent 5 years as a Senior Staff
+  Reinforcement Learning Researcher at the
+  [Lawrence Livermore National Lab](https://st.llnl.gov/research), where I pushed forward
+  the state-of-the-art in Reinforcement Learning in several projects related to national
+  defense, including AI-powered Antibody Therapeutics and Vaccine development. I also acted
+  as the Scientific Outreach Coordinator for the LLNL Data Science Institute, supporting the
+  organization of events to help set priorities for AI developments at the Lab. My Ms.c. and
+  Ph.D. degrees have been awarded by the University of São Paulo, Brazil, where I was advised
+  by Professor Anna Reali Costa. I have held a Postdoc position at the Advanced Institute for
+  AI during 2019-2021, where I helped to approximate the industry and academic sectors in
+  Brazil. During 2018-2019, I was a Visiting Researcher at the University of Texas at Austin,
+  where I worked with Professor [Peter Stone](https://www.cs.utexas.edu/~pstone/). I also
+  interned at [Borealis AI](https://www.borealisai.com/en/), where I did research related to
+  my thesis topic with [Matthew Taylor](https://www.borealisai.com/en/team/prof-matthew-e-taylor/).
+
+  My works are concerned with several topics of Machine Learning, but I am better known for
+  my research on *Transfer Learning for Multiagent Reinforcement Learning* (read more about it
+  in my [book](https://doi.org/10.2200/S01091ED1V01Y202104AIM049) or
+  [survey](https://doi.org/10.1613/jair.1.11396)). More recently, I have been dedicating most
+  of my time working on Machine Learning techniques to support the development of Antibody
+  Therapeutics and Vaccines.
+
+  I was involved in the organization of several academic workshops, including the
+  [Adaptive Learning Agents (ALA) Workshop at AAMAS](https://ala2020.vub.ac.be/), the
+  [Scaling-Up Reinforcement Learning (SURL) Workshop series](http://www.surl.tirl.info), and
+  [Latinx in IA at NeurIPS](https://www.latinxinai.org/neurips-2019).
+
+  I welcome new collaboration opportunities, just e-mail me (however, I cannot do much to help
+  you land a specific position at my current or previous companies, so unless I personally
+  shared the position saying I am the PI, e-mailing me won't be productive).
+
+# Optional "CV" button below the summary (currently hidden). To show it,
+# remove the # at the start of the next line and point it to a PDF in downloads.
+# cv: "downloads/cv_leno_2024.pdf"
+
+
+# -----------------------------------------------------------------------------
+#  PUBLICATIONS
+#  Your name is bolded automatically in author lists (set by bold_author).
+#  Use **...** to bold another author. Leave link as "" if there is no URL yet.
+# -----------------------------------------------------------------------------
+bold_author: "SILVA, F.L."
+
+publications_note: "For a complete and updated list of publications, please refer to my profile at [Google Scholar](https://scholar.google.com.br/citations?user=XbyIZQ4AAAAJ), or [Research Gate](https://www.researchgate.net/profile/Felipe_Silva34)."
+
+publications:
+  - group: "Patents"
+    items:
+      - title: "System and Method for Uncertainty-based Advice for Deep Reinforcement Learning Agents"
+        link: "https://patentimages.storage.googleapis.com/e7/41/d1/a167dab3c52c60/US20210073912A1.pdf"
+        authors: "SILVA, F.L.; HERNANDEZ-LEAL, P.; KARTAL, B.; TAYLOR, M."
+        venue: "US Patent App. 17/011,310, 2021."
+
+  - group: "Books"
+    items:
+      - title: "Transfer Learning for Multiagent Reinforcement Learning Systems"
+        link: "https://www.morganclaypool.com/doi/abs/10.2200/S01091ED1V01Y202104AIM049"
+        authors: "SILVA, F.L.; COSTA, A.H.R."
+        venue: "*Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool*, 2021."
+
+  - group: "Journals"
+    items:
+      - title: "Computationally Restoring the Potency of a Clinical Antibody against Omicron."
+        link: "https://www.nature.com/articles/s41586-024-07385-1"
+        authors: "DESAUTELS ,T. ; et al.; SILVA, F.L.; et al."
+        venue: "*Nature*, v. 49, 2024."
+
+      - title: "Preemptive optimization of a clinical antibody for broad neutralization of SARS-CoV-2 variants and robustness against viral escape."
+        link: ""
+        authors: "ZHU ,F.; et al.; SILVA, F.L.; et al."
+        venue: "*Science Advances*, in press, 2025."
+
+      - title: "A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems"
+        link: "https://www.researchgate.net/publication/330752409_A_Survey_on_Transfer_Learning_for_Multiagent_Reinforcement_Learning_Systems"
+        authors: "SILVA, F.L.; COSTA, A.H.R."
+        venue: "*Journal of Artificial Intelligence Research (JAIR)*,v. 64, p. 645-703, 2019."
+
+      - title: "Coordination of Electric Vehicle Charging through Multiagent Reinforcement Learning"
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8894045"
+        authors: "SILVA, F.L.; NISHIDA, C.; ROIJERS, D.; COSTA, A.H.R."
+        venue: "*IEEE Transactions on Smart Grid*, 2019."
+
+      - title: "Language Model-Accelerated Deep Symbolic Optimization"
+        link: "https://link.springer.com/article/10.1007/s00521-023-08802-8"
+        authors: "SILVA, F.L.; et. al;"
+        venue: "*Neural Computing and Applications (NCAA)*, 2023"
+
+      - title: "A Review on Simulation Platforms for Agent-Based Modeling in Electrified Transportation"
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10268660"
+        authors: "**HARRIS, D.**; SILVA, F.L.; SU, W.; GLATT, R.;"
+        venue: "*IEEE Transactions on Intelligent Transportation Systems*, 2023"
+
+      - title: "Agents Teaching Agents: A Survey on Inter-agent Transfer Learning"
+        link: "https://doi.org/10.1007/s10458-019-09430-0"
+        authors: "SILVA, F.L.; WARNELL, G.; COSTA, A.H.R.; STONE, P."
+        venue: "*Autonomous Agents and Multi-agent Systems*,v. 34:9, 2020."
+
+  - group: "Conferences / Workshops"
+    items:
+      - title: "Toward Multi-Fidelity Reinforcement Learning for Symbolic Optimization"
+        link: "https://www.osti.gov/servlets/purl/1983741"
+        authors: "SILVA, F.L.; et al."
+        venue: "Adaptive and Learning Agents (ALA) workshop at AAMAS, 2023."
+
+      - title: "Leveraging Language Models to Efficiently Learn Symbolic Optimization Solutions"
+        link: "https://www.researchgate.net/profile/Felipe-Silva-17/publication/360720457_Leveraging_Language_Models_to_Efficiently_Learn_Symbolic_Optimization_Solutions/links/6286af253303d263c46689ac/Leveraging-Language-Models-to-Efficiently-Learn-Symbolic-Optimization-Solutions.pdf"
+        authors: "SILVA, F.L.; et al."
+        venue: "Adaptive and Learning Agents (ALA) workshop at AAMAS, 2022."
+
+      - title: "Uncertainty-Aware Action Advising for Deep Reinforcement Learning Agents"
+        link: "https://www.researchgate.net/publication/337334906_Uncertainty-Aware_Action_Advising_for_Deep_Reinforcement_Learning_Agents"
+        authors: "SILVA, F.L.; HERNANDEZ-LEAL, P.; KARTAL, B.; TAYLOR, M."
+        venue: "AAAI Conference on Artificial Intelligence, 2020."
+
+      - title: "Autonomously Reusing Knowledge in Multiagent Reinforcement Learning"
+        link: "https://doi.org/10.24963/ijcai.2018/774"
+        authors: "SILVA, F.L.; TAYLOR, M.E.; COSTA, A.H.R."
+        venue: "International Joint Conference on Artificial Intelligence (IJCAI), p. 5487-5493, 2018."
+
+      - title: "Object-Oriented Curriculum Generation for Reinforcement Learning"
+        link: "https://www.researchgate.net/publication/323738119_Object-Oriented_Curriculum_Generation_for_Reinforcement_Learning"
+        authors: "SILVA, F.L.; COSTA, A.H.R."
+        venue: "International Conference on Autonomous Agents and Multiagent Systems (AAMAS), p. 1026-1034, 2018."
+
+      - title: "Simultaneously Learning and Advising in Multiagent Reinforcement Learning"
+        link: "https://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1100.pdf"
+        authors: "SILVA, F.L.; GLATT, R.; COSTA, A.H.R."
+        venue: "International Conference on Autonomous Agents and Multiagent Systems (AAMAS), p. 1100-1108, 2017."
+
+
+# -----------------------------------------------------------------------------
+#  AWARDS  (one entry per award; the tag is the small label on the left)
+# -----------------------------------------------------------------------------
+awards:
+  - tag: "LLNL"
+    text: "**Innovation and Achievements Award** Lawrence Livermore National Lab Awards, 2025."
+
+  - tag: "LLNL"
+    text: "**Director’s Science and Technology Award Recipient and Director's Award in Publication Recipient** Lawrence Livermore National Lab Awards, 2022."
+
+  - tag: "CTDIAC"
+    text: "**Third Place** in the Brazilian Thesis Competition on AI, edition 2018-2020."
+
+  - tag: "Thesis-USP"
+    text: "**Honorable Mention** as Best Engineering Thesis at the University of São Paulo, 2020."
+
+  - tag: "HLF"
+    text: "**Outstanding Young Researcher**, invited to the 6th and 8th Heidelberg Laureate Forums (HLF), 2018, 2020."
+
+  - tag: "BRACIS"
+    text: '**Best Paper Award** 1st place: "Object-Oriented Reinforcement Learning in Cooperative Multiagent Domains", Brazilian Conference on Intelligent Systems (BRACIS), 2016.'
+
+  - tag: "AAAI"
+    text: '**Best Student Poster - Honarable Mention**, "An Advising Framework for Multiagent Reinforcement Learning Sytems", AAAI Conference on Artificial Intelligence, 2017.'
+
+  - tag: "Hackaton"
+    text: "**First Place: 311 Calls and 500 Cities Data Science Hackaton**, The University of Texas at Austin, 2018."
+
+
+# -----------------------------------------------------------------------------
+#  ACADEMIC SERVICE
+#  Each group has "venues" (conference + years) or "links" (named links).
+#  Under "years", write one line per year:   2026: "https://link-for-that-year"
+#  (use "" when a year has no link). Years are shown in ascending order.
+# -----------------------------------------------------------------------------
+service:
+  - group: "Area Chair"
+    venues:
+      - acronym: "RLC"
+        name: "Reinforcement Learning Conference"
+        years:
+          2025: "https://rl-conference.cc/"
+
+  - group: "Senior Program Committee"
+    venues:
+      - acronym: "IJCAI"
+        name: "International Joint Conference on Artificial Intelligence"
+        years:
+          2021: "https://ijcai-21.org/"
+          2025: "https://2025.ijcai.org/"
+
+      - acronym: "ECAI"
+        name: "European Conference on Artificial Intelligence"
+        years:
+          2024: "https://www.ecai2024.eu/"
+
+      - acronym: "AAAI"
+        name: "AAAI Conference on Artificial Intelligence"
+        years:
+          2021: "https://aaai.org/conference/aaai/aaai-21/"
+
+  - group: "Conference Program Committee / Reviewer"
+    venues:
+      - acronym: "NeurIPS"
+        name: "Conference on Neural Information Processing Systems"
+        years:
+          2021: "https://nips.cc/Conferences/2021"
+          2022: "https://nips.cc/Conferences/2022"
+          2023: "https://nips.cc/Conferences/2023"
+          2024: "https://nips.cc/Conferences/2024"
+          2025: "https://nips.cc/Conferences/2025"
+
+      - acronym: "ICML"
+        name: "International Conference on Machine Learning"
+        years:
+          2020: "https://icml.cc/Conferences/2020"
+          2021: "https://icml.cc/"
+          2022: "https://icml.cc/Conferences/2022"
+          2024: "https://icml.cc/Conferences/2024"
+          2025: "https://icml.cc/Conferences/2025"
+
+      - acronym: "AAMAS"
+        name: "International Conference on Autonomous Agents and Multiagent Systems"
+        years:
+          2020: "https://aamas2020.conference.auckland.ac.nz/"
+          2021: "https://aamas2021.soton.ac.uk/organisation/programme-committee/"
+          2022: "https://aamas2022-conference.auckland.ac.nz/"
+          2023: "https://aamas2023.soton.ac.uk/"
+          2024: "https://www.aamas2024-conference.auckland.ac.nz/"
+          2025: "https://aamas2025.org/"
+
+      - acronym: "IJCAI"
+        name: "International Joint Conference on Artificial Intelligence"
+        years:
+          2018: "https://www.ijcai-18.org"
+          2019: "https://ijcai19.org/"
+          2022: "https://ijcai-22.org/"
+          2024: "https://ijcai24.org/"
+
+      - acronym: "AAAI"
+        name: "AAAI Conference on Artificial Intelligence"
+        years:
+          2021: "https://aaai.org/Conferences/AAAI-21/"
+          2022: "https://aaai.org/Conferences/AAAI-22/"
+
+      - acronym: "ICLR"
+        name: "International Conference on Learning Representations"
+        years:
+          2021: "https://iclr.cc/"
+          2022: "https://iclr.cc/"
+          2024: "https://iclr.cc/"
+          2025: "https://iclr.cc/"
+
+  - group: "Workshop Organizer"
+    links:
+      - name: "AI for Critical Infrastructure at IJCAI"
+        link: "https://sites.google.com/view/aiforci-ijcai24/home"
+
+      - name: "Adaptive Learning Agents (ALA) at AAMAS (2020-2022)"
+        link: "https://ala2021.vub.ac.be/"
+
+      - name: "Transfer in Reinforcement Learning (TiRL)"
+        link: "http://tirl.info/"
+
+      - name: "1st and 2nd Scaling-Up Reinforcement Learning (SURL)"
+        link: "http://surl.tirl.info/"
+
+      - name: "Latinx in AI at NeurIPS"
+        link: "https://www.latinxinai.org/neurips-2019"
+
+
+# -----------------------------------------------------------------------------
+#  OTHER PASSIONS
+# -----------------------------------------------------------------------------
+other_passions:
+  - name: "Music"
+    text: "I've been playing electric guitar since I was 15 years old. Even though I'm far from claiming to be in a professional level, you can count on me if you want to have fun playing some old good heavy metal."
+
+  - name: "Horror Movies"
+    text: 'I was just a little boy when I first watched "Night of the living dead". Thereafter I cannot spend a week without watching a B movie (specially the brain-eater zombie ones).'
+
+  - name: "Photography"
+    text: "My Instagram account: [f.leno](https://www.instagram.com/f.leno/)"
+
+
+# -----------------------------------------------------------------------------
+#  DOWNLOADS  (put the file in the downloads folder; a "here" link is added)
+# -----------------------------------------------------------------------------
+downloads:
+  - text: 'Wing Images and tps file used in "Evaluating classiﬁcation and feature selection techniques for...".'
+    file: "downloads/WingImagesEvaluatingClassification.zip"
+
+  - text: 'Wing Images and tps file used in "A reference process for automating...".'
+    file: "downloads/WingImagesAReference.zip"
